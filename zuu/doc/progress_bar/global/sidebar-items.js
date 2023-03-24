@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["finalize_progress_bar",""],["has_progress_bar",""],["inc_progress_bar",""],["init_progress_bar",""],["print_progress_bar_info",""],["set_progress_bar",""],["set_progress_bar_action",""],["set_progress_bar_max",""],["set_progress_bar_progression",""],["set_progress_bar_width",""]],"struct":[["CURRENT_PROGRESS_BAR",""]]};

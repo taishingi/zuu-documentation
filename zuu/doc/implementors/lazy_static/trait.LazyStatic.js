@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"colored_truecolor":[["impl <a class=\"trait\" href=\"lazy_static/trait.LazyStatic.html\" title=\"trait lazy_static::LazyStatic\">LazyStatic</a> for <a class=\"struct\" href=\"colored_truecolor/control/struct.SHOULD_COLORIZE.html\" title=\"struct colored_truecolor::control::SHOULD_COLORIZE\">SHOULD_COLORIZE</a>"]],
+"progress_bar":[["impl <a class=\"trait\" href=\"lazy_static/trait.LazyStatic.html\" title=\"trait lazy_static::LazyStatic\">LazyStatic</a> for <a class=\"struct\" href=\"progress_bar/global/struct.CURRENT_PROGRESS_BAR.html\" title=\"struct progress_bar::global::CURRENT_PROGRESS_BAR\">CURRENT_PROGRESS_BAR</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Color","The 8 standard colors."]],"mod":[["control","A couple of functions to enable and disable coloring."]],"struct":[["ColoredString","A string that may have color and/or style applied to it."]],"trait":[["Colorize","The trait that enables something to be given color."]]};

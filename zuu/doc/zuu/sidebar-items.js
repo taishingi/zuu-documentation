@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["f",""],["get_fans",""],["kool",""],["look",""],["main",""],["pause",""],["s",""]]};

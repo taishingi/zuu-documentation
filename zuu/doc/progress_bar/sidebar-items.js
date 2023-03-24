@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["global","Includes functions to use a global progress bar (recommended)."],["pb","Includes the [`ProgressBar`] struct."],["style","Includes the [`Color`] and [`Style`] enums. A module containing style and color enums."]]};

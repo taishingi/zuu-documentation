@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["git",""],["podman",""]],"mod":[["zuu",""]]};
